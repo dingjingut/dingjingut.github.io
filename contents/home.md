@@ -1,11 +1,12 @@
 
 
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
 She is currently an associate professor in the School of Economics & Management，Tongji University
 
 #### Contact
 
-Email: dingjingut@gmail.com
+Email: dingjingut[at]gmail.com
 
 #### Education
 Ph.D., Finance, Tsinghua University , 2015—2021.\
