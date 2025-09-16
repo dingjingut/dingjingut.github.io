@@ -1,12 +1,11 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+She is currently an associate professor in the School of Economics & Management，Tongji University
 
 #### Contact
 
-Email: dingjingut[at]gmail.com
+Email: dingjingut@gmail.com
 
 #### Education
 Ph.D., Finance, Tsinghua University , 2015—2021.\
