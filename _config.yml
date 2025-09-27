@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me" #"yangliu-finance"
+title                    : "About me" #"dingjingut"
 title_separator          : "-"
-name                     : &name "yangliu"
+name                     : &name "dingjing"
 description              : &description "Finance PhD Candidate"
-url                      : https://yangliu-finance.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dingjingut.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yangliu-finance.github.io"
+repository               : "dingjingut.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang LIU （刘扬）"
-  avatar           : "Photo_Yang.jpg"
-  bio              : "Associate Professor of Finance, College of Finance and Statistics, Hunan University" #  in STL Econometrics · Statistics · ML
-  location         : "Changsha, China" # "Washington University in St. Louis"
+  name             : "Ding Jing （丁婧）"
+  avatar           : "Photo_Ding.jpg"
+  bio              : "Associate Professor of Finance, School of Economics & Management, Tongjing University" #  in STL Econometrics · Statistics · ML
+  location         : "Shanghai, China" # "Washington University in St. Louis"
   employer         : # "http://www.sem.tsinghua.edu.cn/en/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : liuyang9@hnu.edu.cn
+  email            : dingjingut@gmail.com
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "yangliu-finance"
+  github           : # "dingjingut"
   google_plus      :
   keybase          :
   instagram        : 
