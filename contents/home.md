@@ -8,10 +8,10 @@ I am an Associate Professor of Finance at the School of Economics and Management
 
 #### Contact
 
-Email: dingjingut[at]google.com
+Email: dingjingut@gmail.com
 
 #### Education
-Ph.D., Finance, TSinghua University, 2015—2021.\
+Ph.D., Finance, Tsinghua University, 2015—2021.\
 B.E., Financial Engineering, Nanjing University, 2011—2015.
 
 #### Research Interests
