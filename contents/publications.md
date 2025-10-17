@@ -1,16 +1,15 @@
-#### Submitted
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
 
-#### Published
+- Ding, Jing, Lei Jiang, Lucy Msall, and Mathew J. Notowidigdo. [[Consumer-financed fiscal stimulus: evidence from digital coupons in China.]](https://www.nber.org/papers/w32376) <strong>American Economic Review: Insights</strong> (2025),forthcoming.
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Li, Shi, Meng Li, Leyao Ma, and Jing Ding. [[Do institutional investor cliques prefer supply chain transparency?]](https://www.sciencedirect.com/science/article/abs/pii/S0165176525000837) <strong>Economics Letters</strong> (2025): 112246.
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Busse, Jeffrey A., Jing Ding, Lei Jiang, and Ke Wu. [[Dynamic market timing in mutual funds.]](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4857) <strong>Management Science</strong> (2024), 70(6): 3470-3492.
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Ding, Jing, Lei Jiang, Xiaohui Liu, and Liang Peng. [[Nonparametric tests for market timing ability using daily mutual fund returns.]](https://www.sciencedirect.com/science/article/abs/pii/S0165188923000416) <strong>Journal of Economic Dynamics and Control</strong> (2023): 104635.
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Busse, Jeffrey A., Jing Ding, Lei Jiang, and Yuehua Tang. [[Artificial market timing in mutual funds.]](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/artificial-market-timing-in-mutual-funds/926CC7190D2C8D724B76F423EE742547) <strong>Journal of Financial and Quantitative Analysis</strong> (2022): 1-56.
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Ding, Jing, Libing Fang, and Shi Chen. [[Mitigating free riding in social networks: The impact of under- estimating others’ability in financial market.]](https://www.sciencedirect.com/science/article/abs/pii/S1059056020301623) <strong>International Review of Economics & Finance</strong> 70 (2020): 582-599.
 
+- 方立兵, 丁婧. [[透明度与市场效率——基于信息不对称的适应性学习研究[J].]](https://jmsc.tju.edu.cn/jmsc/article/abstract/20170703?st=article_issue) <strong> 管理科学学报</strong> 2017, 20(7):14.
