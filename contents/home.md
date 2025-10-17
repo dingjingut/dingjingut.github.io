@@ -1,6 +1,6 @@
 
 
-<!--[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)-->
+[![Ding Jing](https://img.shields.io/badge/Jing_Ding-Google_Scholar-blue)](https://scholar.google.com/citations?user=9A-3recAAAAJ&hl=en)
 
 Welcome to my website!
 
