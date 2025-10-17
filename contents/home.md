@@ -4,7 +4,7 @@
 
 Welcome to my website!
 
-I am an Associate Professor of Finance at the School of Economics and Management, Tongji University.
+I am an Associate Research Fellow of Finance at the School of Economics and Management, Tongji University.
 
 #### Contact
 
